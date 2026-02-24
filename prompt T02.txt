@@ -1,0 +1,5 @@
+buatlah program dalam bahasa c menggunakan array.Banyak datanya diminta oleh program untuk jumlah indeks di variabel arraynya. Program meminta minta input nama siswa , dan program otomatis memberikan nilai kepada siswa tersebut  dimulai dari siswa pertama dengan nilai 75 dengan pola -10,+15  
+lalu berikan total nilai dari seluruh siswa
+outputnya adalah nilai siswa dan jumlah nilai  dalam  kelompok tertentu setelah semua nama diinput
+maksudnya di akhir setelah selesai menginput nama, program akan meminta input kembali nomor siswa yang akan dioutput(no siswa adalah sesuai urutan arrya)
+buat jika nomor siswa yang ingin ditampilkan > 1

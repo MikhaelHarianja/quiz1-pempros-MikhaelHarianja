@@ -1,0 +1,6 @@
+buatlah program bahasa c yang dapat meminta input nama makanan dari user. dengan kode makanan nasi goreng ="NGS",ayam penyet="AP",sate ayam="SA",Bakso urat = "BU",Mie ayam pangsit="MAP" ,Gado gado ="GG",Soto ayam ="SAM",Rendang daging="RD",Ikan Bakar="IB",Nasi uduk komplit ="NUK".saat program di run, maka akan meminta input porsi sesuai urutan dari NGS sampai NUK.Ada 2 orang yang memesan. maka, akan ditanya semua porsi tiap jenis makanan sebanyak 2 kali.porsi orang pertama sama seperti yang diinput.sedangkan orang kedua dikali 2.
+ini harganya
+jika total belanja mereka >100 rb, maka  dapat kupon biru.jika >200rb, maka dapat kupon kuning . begitu seterusnya
+buat contoh input dan outputnya
+outputnya sama seperti ini
+buat input outputnya
